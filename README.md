@@ -7,6 +7,7 @@ Notes App
 Screens:
 
 Main Screen :
+
 <image src= "https://github.com/dimple2429/Notes-App-MVVM/blob/master/screens/MainScreen.jpeg" width = "400" height= "700"/>
 
 Add Notes:
