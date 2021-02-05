@@ -5,6 +5,9 @@ Notes App
 - The app is built using Room Database, Live data, View Model and RecyclerView.
 
 Screens:
+
+<image src= " https://github.com/dimple2429/Notes-App-MVVM/blob/master/main.png" width = "100" height= "10">
+
 1. Main Screen
 https://github.com/dimple2429/Notes-App-MVVM/blob/master/screens/MainScreen.jpeg
 
